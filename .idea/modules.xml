@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PC Health Check/.idea/PC Health Check.iml" filepath="$PROJECT_DIR$/../PC Health Check/.idea/PC Health Check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Port Scanner.iml" filepath="$PROJECT_DIR$/.idea/Port Scanner.iml" />
+    </modules>
+  </component>
+</project>
